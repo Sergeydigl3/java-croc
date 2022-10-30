@@ -1,6 +1,6 @@
-package ru.labs.Lab2;
+package ru.labs.lab2;
 
-public class lab2{
+public class Lab2{
 
     public static void main(String[] args) {
         // read the input as ints

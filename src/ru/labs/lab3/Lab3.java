@@ -1,4 +1,4 @@
-package ru.labs.Lab3;
+package ru.labs.lab3;
 
 public class Lab3{
 
